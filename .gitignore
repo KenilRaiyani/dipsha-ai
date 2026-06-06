@@ -1,0 +1,6 @@
+pass.yml
+__pycache__/
+.venv/
+venv/
+*.pyc
+.gradio/
