@@ -6,9 +6,19 @@ A desktop AI chat assistant built with Python, Gradio, and the Groq API — powe
 
 ---
 
+## Live Demo
+
+https://huggingface.co/spaces/Krishi07/dipsha-ai
+
+---
+
 ## Screenshot
 
-> _Add a screenshot here: `![Dipsha AI](screenshot.png)`_
+<img width="1887" height="848" alt="image" src="https://github.com/user-attachments/assets/73702b74-749d-47e5-84a9-84ee8a492272" />
+<img width="1827" height="901" alt="image" src="https://github.com/user-attachments/assets/25cb76ab-3219-4c9a-90a9-707ca34657f4" />
+<img width="1877" height="763" alt="image" src="https://github.com/user-attachments/assets/2402a775-1d1a-4b7b-8f38-a2b8db8e0f3f" />
+
+
 
 ---
 
